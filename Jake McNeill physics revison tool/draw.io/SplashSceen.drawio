@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="qE1hfmzq3H4Z9ZPl7Yx2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Px_6-jyuwTG98TayCw2O-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="420" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;lblTitle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;pbxLoadingGif&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-4" value="Text- McNeill Studios&lt;div&gt;Font - Comic Sans MS&lt;/div&gt;&lt;div&gt;Font Size- 26&lt;/div&gt;&lt;div&gt;Size-&amp;nbsp;281, 49&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-5" value="Image-&lt;div&gt;the gif is timed so that when the timer counts to 5 ticks the gif will have completed in time for the form to close.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-6" value="Timer1 - the timer will count 5 ticks and when the 5th is counted it will move the program to the next form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="610" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Px_6-jyuwTG98TayCw2O-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="494.6" as="sourcePoint" />
+            <mxPoint x="130" y="494.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px_6-jyuwTG98TayCw2O-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Px_6-jyuwTG98TayCw2O-2" target="Px_6-jyuwTG98TayCw2O-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="320" as="sourcePoint" />
+            <mxPoint x="170" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
