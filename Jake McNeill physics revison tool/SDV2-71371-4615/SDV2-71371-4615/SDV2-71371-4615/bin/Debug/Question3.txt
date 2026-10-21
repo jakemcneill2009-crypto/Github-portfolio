@@ -1,9 +1,0 @@
-Match the unit to the symbol,Volt,Amp,Metre,Kelvin,Substance,V,A,M,K,Mol
-Match the equipment to the unit,Ruler,Ammeter,VoltMeter,Stopwatch,Thermometer,M,A,V,S,K,
-Match the symbol to the magnitude,x10^-9,x10^+3,x10^+6,x10^-6,x10^-3,N,K,M,u,m
-Put these in order from smallest to largest,Mega,Kilo,Centi,micro,nano,Largest,,,,Smallest
-Match the base unit to the unit,kgm^2s^-3a^-2,kgms^-2,ms^-1,ms-2,kgm^2s^-3a^-1,Resistance,Force,Speed,Acceleration,Volts
-Put these temperatures from largest to smallest,100 degrees, 50 degrees, 0 degrees, 200K, 0K,Largest,,,,Smallest
-Match the Word to the Definition,Current,Volt,Emf,Pd,Watt,Rate and flow of charge,energy transfered per unit charge,Energy transered to electrical energy per unit charge,Electrical energy transfered to other forms per unit charge,joules per second
-Match the terms to the definitions,Base Units,Derived Unit,Absolute 0,Mole,Vector,Units that make up other units,Units made from other Units,0 Kelvin,The number of atoms in the atomic mass of a substance,have direction and magnatude
-match the terms to the definitions,Resistance,Internal Resistance,series,parallel,Resistivity,opposition to the flow of charge,Resistance within the source of the circuit,components that come 1 after another,components that are attached to only 1 component in a circuit,Resistance per unit of cross sectional area and unit of length

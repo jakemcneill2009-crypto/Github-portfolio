@@ -1,6 +1,0 @@
-Put these in the order cell bulb battery,Images\Cell.jfif,Images\Bulb.jfif,Images\Battery.png
-Put these in order from smallest incedent angle to the largest,Images\Refraction.jpg,Images\Critical angle.jpg,Images\TIR.jpg
-Put these in order of Refraction dispersion reflection,Images\Refraction.png,Images\dispersion.png,Images\Reflection.png
-Put these in order of Variable Resistor VoltMeter Ammeter,Images\VResistor.jpg,Images\VoltMeter.jpg,Images\Ammeter.jpg
-Arrange these in decreasing order,Images\Mode4.PNG,Images\Mode2.PNG,Images\Mode1.PNG
-Arrange these in accending order,Images\Mode3.PNG,Images\Mode5.PNG,Images\Mode6.PNG
