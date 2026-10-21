@@ -1,0 +1,12 @@
+Select the Thermistor,Images\Thermistor.jpg,Images\VoltMeter.jpg,Images\Switch.png,Images\Diode1.png
+Select the VoltMeter,Images\VoltMeter.jpg,Images\Ammeter.jpg,Images\Battery.jpg,Images\Bulb.jfif
+Select the Bulb,Images\Bulb.jfif,Images\Ammeter.jpg,Images\Thermistor.jpg,Images\VResistor.jpg
+Select the Variable Resistor,Images\VResistor.jpg,Images\VoltMeter.jpg,Images\Diode1.png,Images\Bulb.jfif
+Select the Diode symbol,Images\Diode2.png,Images\Diode1.png,Images\Thermistor.jpg,Images\VoltMeter.jpg
+Select the Switch,Images\Switch.png,Images\VResistor.jpg,Images\Thermistor.jpg,Images\Battery.jpg
+Select the Thermistor,Images\Thermistor.jpg,Images\VoltMeter.jpg,Images\Switch.png,Images\Diode1.png
+Select the VoltMeter,Images\VoltMeter.jpg,Images\Ammeter.jpg,Images\Battery.jpg,Images\Bulb.jfif
+Select the Bulb,Images\Bulb.jfif,Images\Ammeter.jpg,Images\Thermistor.jpg,Images\VResistor.jpg
+Select the Variable Resistor,Images\VResistor.jpg,Images\VoltMeter.jpg,Images\Diode1.png,Images\Bulb.jfif
+Select the Diode symbol,Images\Diode2.png,Images\Diode1.png,Images\Thermistor.jpg,Images\VoltMeter.jpg
+Select the Switch,Images\Switch.png,Images\VResistor.jpg,Images\Thermistor.jpg,Images\Battery.jpg
