@@ -1,0 +1,8 @@
+Added a proper log in system
+Added a way for people to create an account
+Added a way for people to log out so they can reuse the software without having to restart it
+Added a menu strip to hold features like help buttons
+Remade the quiz form so that they aren't all on the same form
+Relocated the reaction test result and timer display on the reaction test form
+Added a running total score which is linked to the user in a user details file
+made the reaction test form reset itself once it is completed for later use by other users
