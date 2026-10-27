@@ -1,8 +1,8 @@
-Added a proper log in system
-Added a way for people to create an account
-Added a way for people to log out so they can reuse the software without having to restart it
-Added a menu strip to hold features like help buttons
-Remade the quiz form so that they aren't all on the same form
-Relocated the reaction test result and timer display on the reaction test form
-Added a running total score which is linked to the user in a user details file
-made the reaction test form reset itself once it is completed for later use by other users
+Authentication & User Management:
+User Registration & Login: Implemented a secure account creation and login system to manage individual user profiles.
+Seamless Session Management: Added a log-out feature, allowing multiple users to switch accounts without restarting the application.
+Score Persistence: Integrated a user database/file system to store and track running total scores linked to each account.
+User Interface:
+Global Navigation: Added a standard menu bar to host essential features, navigation, and help resources.
+Quiz Form Refactoring: Restructured the quiz interface into separate, dedicated forms for a cleaner and more modular workflow.
+Reaction Test Optimizations: Relocated timer displays and reaction metrics for better visual balance, and implemented an automatic form reset upon test completion to streamline repeat attempts.
